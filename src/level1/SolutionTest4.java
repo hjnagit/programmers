@@ -2,7 +2,7 @@ package level1;
 
 import java.util.Arrays;
 
-public class SolutionTest4 {
+public class SolutionTest4 { 
 
 	public static void main(String[] args) {
 		
