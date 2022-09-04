@@ -3,6 +3,9 @@ package level1;
 public class SolutionTest {
 
 	public static void main(String[] args) {
+		// 이상한 문자 출력하기
+		// 짝수번째는 대문자, 홀수번째는 소문자
+		
 		
 		String s = "   A   a    AaAaAaAaA     aAaAaAa     ";
 		String s1 = "";
