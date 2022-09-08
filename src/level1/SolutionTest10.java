@@ -24,4 +24,15 @@ class Solution10{
 		
 		return answer;
 	}
+	
+	//for문 절반으로 줄이기
+	public int sol2(int n) {
+		int answer = 0;
+		
+		for(int i=1; i<=n/2; i++) {
+			if(n%i == 0) answer += i;
+		}
+		
+		return answer+n;
+	}
 }
