@@ -16,7 +16,7 @@ public class SolutionTest27 {
 		System.out.println(Arrays.toString(dn.solution(arr, 5)));
 		
 		
-	}
+	} 
 
 }
 
