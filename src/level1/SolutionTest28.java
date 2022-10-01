@@ -13,7 +13,7 @@ public class SolutionTest28 {
 
 }
 
-//가운데 글자 가져오기
+//가운데 글자 가져오기 
 class CenterStr {
 	public String solution(String s) {
 		String answer = "";
