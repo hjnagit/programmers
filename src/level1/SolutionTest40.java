@@ -6,7 +6,7 @@ public class SolutionTest40 {
 
 	}
 	
-	//최대공약수 최소공배수
+	//최대공약수 최소공배수 
 	static int[] solution2(int n, int m) {
 		int[] answer = {1,1};
 		
