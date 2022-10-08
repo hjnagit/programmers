@@ -3,6 +3,7 @@ package level1;
 import java.util.Arrays;
 
 public class SolutionTest39 {
+	
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
