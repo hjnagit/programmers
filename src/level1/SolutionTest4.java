@@ -15,7 +15,7 @@ public class SolutionTest4 {
 
 }
 
-
+//약수의 합
 class Solution4{
 	public long[] solution(int x, int n) {
 		
