@@ -1,6 +1,6 @@
 package level2;
 
-public class Solution4 {
+public class Solution4 { 
 
 	public static void main(String[] args) {
 		solution("01101"); 
