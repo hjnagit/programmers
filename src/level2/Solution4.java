@@ -3,7 +3,7 @@ package level2;
 public class Solution4 { 
 
 	public static void main(String[] args) {
-		solution("01101");   
+		solution("01101");    
 	}
 	
 	//이진 변환 반복하기
