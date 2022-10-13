@@ -9,7 +9,7 @@ public class Solution4 {
 	//이진 변환 반복하기
 	static int[] solution(String s) {
         int[] answer = {};
-        int a = 0;
+        int a = 0; 
         int b = 0;
         
         int num = 0;
