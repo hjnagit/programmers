@@ -5,7 +5,7 @@ import java.util.Stack;
 public class Solution9 {
 
 	public static void main(String[] args) {
-		String str = "3r3sdgdy4ytesgseg";
+		String str = "3r3sdgdy4ytesgseg"; 
 		solution(str);
 	}
 	
