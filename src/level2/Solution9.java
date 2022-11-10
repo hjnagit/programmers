@@ -9,7 +9,7 @@ public class Solution9 {
 		solution(str);
 	}
 	
-	//짝지어 제어하기          
+	//짝지어 제어하기           
 	static int solution(String s)
     {
 		Stack<Character> stack = new Stack<>();
